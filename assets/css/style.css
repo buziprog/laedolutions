@@ -448,6 +448,9 @@ h6 {
   #hero {
     height: 100vh;
     text-align: center;
+    background: linear-gradient(#283a5ae6, #283a5ae6),
+    url("../img/london.jpeg") fixed center center;
+    background-size: cover;
   }
 
   #hero .animated {
@@ -488,6 +491,9 @@ h6 {
   #hero .btn-get-started {
     font-size: 16px;
     padding: 10px 24px 11px 24px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
   }
 }
 
