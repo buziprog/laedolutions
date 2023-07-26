@@ -382,7 +382,7 @@ h6 {
   background-image: url("assets/img/hero-img.png");
   background-color: #202734;
   background: linear-gradient(#283a5ae6, #283a5ae6),
-    url("../img/london.jpeg") fixed center center;
+    url("assets/img/london.jpeg") fixed center center;
   background-size: cover;
 }
 
